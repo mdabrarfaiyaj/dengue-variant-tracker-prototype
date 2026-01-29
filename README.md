@@ -177,9 +177,9 @@ MIT License - Free to use with attribution
 
 ## 👤 Author
 **Your Name**
-- LinkedIn: [Your Profile]
-- GitHub: [@yourusername]
-- Email: your.email@example.com
+- LinkedIn: [https://www.linkedin.com/in/md-abrar-faiyaj-559246381/]
+- GitHub: [@mdabrarfaiyaj]
+- Email: faiyaj.mdabrar@gmail.com
 
 ## 🏆 Skills Demonstrated
 - Bioinformatics data analysis (Bioconductor/R)
