@@ -176,7 +176,6 @@ Suggestions and improvements welcome! Please:
 MIT License - Free to use with attribution
 
 ## 👤 Author
-**Your Name**
 - LinkedIn: [https://www.linkedin.com/in/md-abrar-faiyaj-559246381/]
 - GitHub: [https://github.com/mdabrarfaiyaj]
 - Email: faiyaj.mdabrar@gmail.com
