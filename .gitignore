@@ -1,0 +1,41 @@
+# R and RStudio files
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+*.Rproj
+
+# Data files (too large for git)
+data/raw/*.fasta
+data/raw/*.zip
+data/processed/*.fasta
+
+# Keep directory structure
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+!plots/.gitkeep
+
+# Shiny deployment
+rsconnect/
+.secrets
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Temporary files
+*~
+*.tmp
+*.temp
+
+# Python cache (if using mixed environment)
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment variables
+.env
+.env.local
