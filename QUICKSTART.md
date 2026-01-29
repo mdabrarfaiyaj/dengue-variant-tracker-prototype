@@ -228,29 +228,6 @@ git push -u origin main
 rmarkdown::render("analysis_report.Rmd")  # Create Rmd first
 ```
 
-### LinkedIn Post Template
-```
-🦟 Excited to share my latest bioinformatics project!
-
-I built an interactive R Shiny dashboard for tracking dengue virus variants 
-using Bioconductor tools. The dashboard analyzes public NCBI sequences to 
-identify mutation patterns relevant to public health in tropical regions.
-
-🔬 Key features:
-- Automated quality control pipeline
-- Motif detection for known mutation sites  
-- Interactive visualizations
-- Custom pattern search
-
-💻 Technologies: R, Bioconductor, Shiny, ggplot2
-🌍 Real-world impact: Supports local disease surveillance
-
-🔗 Live Dashboard: [your-shinyapps-url]
-🔗 GitHub Code: [your-github-url]
-
-#Bioinformatics #DataScience #PublicHealth #RStats #Genomics #DengueVirus
-```
-
 ---
 
 ## Troubleshooting
