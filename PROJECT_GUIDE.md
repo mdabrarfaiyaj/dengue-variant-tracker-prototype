@@ -545,10 +545,6 @@ Feedback welcome! What would you add?
 
 #OpenScience #r4ds #TidyTuesday #AcademicTwitter
 ```
-
----
-```
-
 ---
 
 ## 🎯 Success Metrics
