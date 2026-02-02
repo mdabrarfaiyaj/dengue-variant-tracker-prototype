@@ -1,4 +1,5 @@
 # Quick Start Guide - Dengue Variant Tracker Dashboard
+This is the prototype version. See Bangladeshi version: https://github.com/mdabrarfaiyaj/bangladesh-dengue-variant-tracker
 
 ## 🚀 Complete Setup in 15 Minutes
 
