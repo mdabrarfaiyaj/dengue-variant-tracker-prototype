@@ -1,7 +1,14 @@
-# Dengue Variant Tracker Dashboard
+# 🦟 Dengue Variant Tracker – Prototype (Reference Strains)
 
-## 🦟 Project Overview
-An interactive R Shiny dashboard for tracking dengue virus variants using Bioconductor tools. This project analyzes public dengue virus sequences from NCBI to identify mutation patterns and motifs relevant to public health in tropical regions like Bangladesh.
+**Prototype version** – Demonstrates the full pipeline using global reference dengue genomes.
+
+**Real Bangladeshi variant version (recommended for portfolio showcase):**  
+→ https://github.com/mdabrarfaiyaj/bangladesh-dengue-variant-tracker
+
+Current dataset: Reference strains from NCBI RefSeq  
+- DENV-1: NC_001477.1  
+- DENV-2: NC_001474.2  
+- Used for testing, learning, and debugging the pipeline
 
 ## 🎯 Objectives
 - Fetch and process public dengue virus sequences
@@ -190,5 +197,4 @@ MIT License - Free to use with attribution
 
 ---
 *This project was developed as part of a bioinformatics portfolio showcasing real-world genomic data analysis skills applicable to tropical disease surveillance.*
-# Dengue Variant Tracker
-# Dengue Variant Tracker
+Note: This prototype uses reference sequences. For Bangladeshi outbreak strains see the dedicated repository.
