@@ -1,5 +1,5 @@
 # Deployment Guide - Publishing Your Dashboard Online
-This is the prototype version. See Bangladeshi version: https://github.com/mdabrarfaiyaj/bangladesh-dengue-variant-tracker
+This is the prototype version. See Bangladeshi version: https://github.com/mdabrarfaiyaj/bangladeshi-dengue-strain-tracker
 
 ## Deploying to shinyapps.io (Free Tier)
 

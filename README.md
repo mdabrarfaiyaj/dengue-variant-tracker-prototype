@@ -3,7 +3,7 @@
 **Prototype version** – Demonstrates the full pipeline using global reference dengue genomes.
 
 **Real Bangladeshi variant version (recommended for portfolio showcase):**  
-→ https://github.com/mdabrarfaiyaj/bangladesh-dengue-variant-tracker
+→ https://github.com/mdabrarfaiyaj/bangladeshi-dengue-strain-tracker
 
 Current dataset: Reference strains from NCBI RefSeq  
 - DENV-1: NC_001477.1  
